@@ -1,3 +1,12 @@
+/*******************************************************************************
+* PROJECT     : SimpleLogger
+*
+* MODULE      : $Workfile: logger.cpp $  $Revision: 1 $
+*
+* DESCRIPTION : Logger basic functions
+* AUTHOR      : Inderjeet Singh
+*
+********************************************************************************
 #include "logger.h"
 
 Logger::Logger() : m_file("C:/Users/isingh/SimpleLogger/logger.log"),
