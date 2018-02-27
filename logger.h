@@ -1,3 +1,12 @@
+/*******************************************************************************
+* PROJECT     : SimpleLogger
+*
+* MODULE      : $Workfile: logger.h $  $Revision: 1 $
+*
+* DESCRIPTION : Logger basic functions declarations
+* AUTHOR      : Inderjeet Singh
+*
+********************************************************************************
 #ifndef LOGGER_H
 #define LOGGER_H
 
