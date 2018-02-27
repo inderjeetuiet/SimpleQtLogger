@@ -1,3 +1,12 @@
+/*******************************************************************************
+* PROJECT     : SimpleLogger
+*
+* MODULE      : $Workfile: main.cpp $  $Revision: 1 $
+*
+* DESCRIPTION : main class for initizaing the Logger 
+* AUTHOR      : Inderjeet Singh
+*
+********************************************************************************
 #include <QCoreApplication>
 #include "logger.h"
 
